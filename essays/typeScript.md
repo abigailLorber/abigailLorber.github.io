@@ -12,7 +12,7 @@ labels:
   - WODs
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded" src="../img/rustCrab.png">
 
 ## Analysis of TypeScript
 
