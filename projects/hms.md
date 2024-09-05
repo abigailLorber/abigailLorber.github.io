@@ -12,6 +12,10 @@ summary: "My team created a hotel management system for ICS 212."
 
 <img class="img-fluid" src="../img/hms.png">
 
+I was responsible for creating a customer class and the available rooms and guest summary features. 
+
+ICS 212 was the first class to introduce me to group programming assignments, which was a beneficial learning experience. As a group, we had to divide up tasks of the project, program our portions and peer review each other's work. At the end, we were expected to present our program to the class.
+
 The HMS (Hotel Management System) was developed in order to keep track of rooms in a hotel and to log customers checking in and out of a hotel establishment. The HMS starts off empty; there are no rooms when the HMS is started, therefore rooms must be added through the Manage rooms option shown below.
 
 The HMS allows a user to choose between 6 different options:
