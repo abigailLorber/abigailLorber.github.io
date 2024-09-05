@@ -14,7 +14,7 @@ labels:
 
 <img width="200px" src="../img/rustCrab.png">
 
-I have never used TypeScript before ICS 314, but I have used JavaScript in high school. I think the syntax is annoying and a little more difficult to learn than Python or Golang, for example. I tried to learn Rust once, and nothing will ever be as bad as that (I hope) - so I guess TypeScript has that going for itself.
+I have never used TypeScript before ICS 314, but I have used JavaScript in high school. I think the syntax is annoying and a little more difficult to learn than Python or Golang, for example. I tried to learn Rust once, and nothing will ever be as bad as Rust (I hope) - so I guess TypeScript has that going for itself.
 
 I think my biggest issue with TypeScript is that I often find myself just programming in JavaScript. I do think that safety would be more of a problem in projects that are larger and have a lot of contributors, and TypeScript would be great at solving this issue. TypeScript also seems to be a decent programming language because you have to declare data types, which can be helpful in cases where the code base is huge. But, I would probably not use TypeScript for something small or personal projects.
 
