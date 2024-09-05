@@ -34,7 +34,7 @@
       "institution": "University of Hawai'i at Mānoa | Honolulu, HI",
       "area": "Computer Science (expected graduation Spring 2026)",
       "studyType": "B.S.",
-      "startDate": "January 2023",
+      "startDate": "2023-01-01",
       "endDate": "Present",
       "courses": []
     },
@@ -42,31 +42,31 @@
       "institution": "Kapi'olani Community College | Honolulu, HI",
       "area": "N/a (took a semester at KCC while transferring to UH Mānoa)",
       "studyType": "N/a",
-      "startDate": "2022-08",
-      "endDate": "2022-12",
+      "startDate": "2022-08-01",
+      "endDate": "2022-12-01",
       "courses": []
     },
     {
       "institution": "Hawai'i Pacific University | Honolulu, HI",
       "area": "Computer Science with a Cybersecurity concentration (transfered to UH Mānoa)",
       "studyType": "B.S.",
-      "startDate": "August 2021",
-      "endDate": "May 2022",
+      "startDate": "2021-08-01",
+      "endDate": "2022-05-01",
       "courses": []
     },
     {
       "institution": "Anne Arundel Community College | Arnold, MD",
       "area": "N/a (attended through a partnership with Arundel Senior High School during senior year)",
       "studyType": "N/a",
-      "startDate": "September 2020",
-      "endDate": "May 2021",
+      "startDate": "2020-09-01",
+      "endDate": "2021-05-01",
       "courses": ["Introduction to Electrical Engineering", "Physics 1"]
     },
     {
       "institution": "Arundel Senior High School | Gambrills, MD",
       "studyType": "High School Diploma",
-      "startDate": "September 2017",
-      "endDate": "May 2021",
+      "startDate": "2017-09-01",
+      "endDate": "2021-05-01",
     }
   ],
   "work": [
@@ -74,7 +74,7 @@
       "company": "Department of Defense",
       "position": "College Intern",
       "website": "",
-      "startDate": "January 2024",
+      "startDate": "2024-01-01",
       "endDate": "Present",
       "summary": "Alternate semesters of work and school (delayed graduation to Spring 2026).",
       "highlights": [
@@ -85,8 +85,8 @@
       "company": "Hawai'i Pacific University",
       "position": "Girls in Tech Summer Camp Mentor",
       "website": "",
-      "startDate": "May 2022",
-      "endDate": "July 2022",
+      "startDate": "2022-05-01",
+      "endDate": "2022-07-01",
       "summary": "Mentored girls ages 13-17 at a summer camp hosted by Hawai'i Pacific University.",
       "highlights": [
         "Advocated for women in Computer Science.",
@@ -98,8 +98,8 @@
       "company": "Piney Orchard Elementary School",
       "position": "Midday Monitor",
       "website": "",
-      "startDate": "March 2021",
-      "endDate": "June 2021",
+      "startDate": "2021-03-01",
+      "endDate": "2021-06-01",
       "summary": "Watched students during lunch and recess time.",
       "highlights": [
         "Interacted with teachers and students.",
@@ -114,7 +114,7 @@
       "organization": "Hawai'i Foodbank",
       "website": "https://hawaiifoodbank.org/",
       "position": "Volunteer at Hawai'i Foodbank",
-      "startDate": "2021",
+      "startDate": "2021-01-01",
       "endDate": "Present",
       "summary": "Pack boxes for elderly and/or children.",
     },
@@ -122,8 +122,8 @@
       "organization": "SPCA",
       "website": "",
       "position": "Volunteer at SPCA in Maryland",
-      "startDate": "August 2017",
-      "endDate": "March 2020",
+      "startDate": "2017-08-01",
+      "endDate": "2020-03-01",
       "summary": "",
       "highlights": [
         "Cared and played with animals; cleaned cages and provided fresh food/water.",
