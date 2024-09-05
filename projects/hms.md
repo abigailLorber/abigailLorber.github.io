@@ -12,7 +12,7 @@ summary: "My team created a hotel management system for ICS 212."
 
 <img class="img-fluid" src="../img/hms.png">
 
-The HMS (Hotel Management System) was developed in order to keep track of different customers checking in and out of a hotel establishment.
+The HMS (Hotel Management System) was developed in order to keep track of rooms in a hotel and to log customers checking in and out of a hotel establishment. The HMS starts off empty; there are no rooms when the HMS is started, therefore rooms must be added through the Manage rooms option shown below.
 
 The HMS allows a user to choose between 6 different options:
   1. Manage rooms
@@ -21,6 +21,37 @@ The HMS allows a user to choose between 6 different options:
   4. Search Customer
   5. Check-out rooms
   6. Guest Summary Report
+
+Manage rooms: displays the MANAGE ROOMS page, where a user can add, search, or delete a room.
+
+Check-in rooms: allows the user to check into the room, prompts user for:
+  - Room number
+  - Booking ID
+  - Customer name
+  - Address
+  - Phone number
+  - Check-in date
+  - Check-out date
+  - Any advance payments.
+
+Available rooms: displays any available rooms (a room must first be added in the MANAGE ROOMS page and empty to be available).
+
+Search customer: prompts user for customer name, displays if the customer is staying at the hotel or not and the corresponding room number.
+
+Check-out rooms: allows the user to check-out of a room, prompts user for:
+  - Room number
+  - Number of days stayed in room
+
+  Displays the following check-out details:
+    - Customer name
+    - Room number
+    - Address
+    - Phone number
+    - Total amount due
+    - Advance paid
+    - Total payable
+
+Guest summary report: displays all customers currently staying at the hotel, it does not display customers who have checked-out of the hotel.
 
 An excerpt from the HMS is provided below.
 
