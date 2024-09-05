@@ -10,7 +10,11 @@ labels:
 summary: "My team created a hotel management system for ICS 212."
 ---
 
+<br>
+
 <img class="img-fluid" src="../img/hms.png">
+
+<br>
 
 ## Assignment 
 
