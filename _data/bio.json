@@ -14,97 +14,123 @@
     ]
   },
   "interests": [
-    { "name": "Mobile application development" },
-    { "name": "Video game development" },
-    { "name": "Software engineering" },
-    { "name": "Web design and web development" }
+    { "name": "Mobile Application Development" },
+    { "name": "Video Game Development" },
+    { "name": "Software Engineering" },
+    { "name": "Web Design" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Python", "Bash", "Javascript", "Assembly" ]
+      "keywords": [ "C", "C++", "Java", "Python", "HTML/CSS", "Bash", "Javascript", "Golang", "Assembly" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++" ]
+      "keywords": [ "MacOS", "Unix", "Git/GitHub", "Ubuntu", "Kali"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2026)",
+      "institution": "University of Hawai'i at Mānoa | Honolulu, HI",
+      "area": "Computer Science (expected graduation Spring 2026)",
       "studyType": "B.S.",
-      "startDate": "2023-08-01",
+      "startDate": "January 2023",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
+    },
+    {
+      "institution": "Kapi'olani Community College | Honolulu, HI",
+      "area": "N/a (took a semester at KCC while transferring to UH Mānoa)",
+      "studyType": "N/a",
+      "startDate": "August 2022",
+      "endDate": "December 2022",
+      "courses": []
+    },
+    {
+      "institution": "Hawai'i Pacific University | Honolulu, HI",
+      "area": "Computer Science with a Cybersecurity concentration (transfered to UH Mānoa)",
+      "studyType": "B.S.",
+      "startDate": "August 2021",
+      "endDate": "May 2022",
+      "courses": []
+    },
+    {
+      "institution": "Anne Arundel Community College | Arnold, MD",
+      "area": "N/a (attended through a partnership with Arundel Senior High School during senior year)",
+      "studyType": "N/a",
+      "startDate": "September 2020",
+      "endDate": "May 2021",
+      "courses": ["Introduction to Electrical Engineering", "Physics 1"]
+    },
+    {
+      "institution": "Arundel Senior High School | Gambrills, MD",
+      "area": "High School Diploma",
+      "startDate": "September 2017",
+      "endDate": "May 2021",
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Department of Defense",
+      "position": "College Intern",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "January 2024",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Alternate semesters of work and school (delayed graduation to Spring 2026).",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "More information available upon request."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Hawai'i Pacific University",
+      "position": "Summer Camp Mentor - Girls in Tech",
+      "website": "",
+      "startDate": "May 2022",
+      "endDate": "July 2022",
+      "summary": "Mentored girls ages 13-17 at a summer camp hosted by Hawai'i Pacific University.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Advocated for women in Computer Science.",
+        "Prepared and planned daily activities with a team; focused on integrating Hawaiian culture into activities.",
+        "Learned about culturally responsive pedagogy and interacting with students in ways that are culturally meaningful and inclusive."
       ]
-    }
+    },
+    {
+      "company": "Piney Orchard Elementary School",
+      "position": "Midday Monitor",
+      "website": "",
+      "startDate": "March 2021",
+      "endDate": "June 2021",
+      "summary": "Watched students during lunch and recess time.",
+      "highlights": [
+        "Interacted with teachers and students.",
+        "Supervised recess and creative art activities; created fun and engaging activities for students.",
+        "Assisted with children’s lunch services.",
+        "Managed and set classroom expectations to maintain a calm and productive learning environment."
+      ]
+    },
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Hawai'i Foodbank",
+      "website": "https://hawaiifoodbank.org/",
+      "position": "Volunteer at Hawai'i Foodbank",
+      "startDate": "2021",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+      "summary": "Pack boxes for elderly and/or children",
     },
     {
-      "organization": "",
+      "organization": "SPCA",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Volunteer at SPCA in Maryland",
+      "startDate": "August 2017",
+      "endDate": "March 2020",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Cared and played with animals; cleaned cages and provided fresh food/water.",
+        "Interacted with customers.",
+        "Advised applicants about the animals and the adoption process.",
+        "Advocated for the SPCA and the animals."
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
