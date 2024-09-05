@@ -42,8 +42,8 @@
       "institution": "Kapi'olani Community College | Honolulu, HI",
       "area": "N/a (took a semester at KCC while transferring to UH Mānoa)",
       "studyType": "N/a",
-      "startDate": "August 2022",
-      "endDate": "December 2022",
+      "startDate": "2022-08",
+      "endDate": "2022-12",
       "courses": []
     },
     {
@@ -64,7 +64,7 @@
     },
     {
       "institution": "Arundel Senior High School | Gambrills, MD",
-      "area": "High School Diploma",
+      "studyType": "High School Diploma",
       "startDate": "September 2017",
       "endDate": "May 2021",
     }
@@ -83,7 +83,7 @@
     },
     {
       "company": "Hawai'i Pacific University",
-      "position": "Summer Camp Mentor - Girls in Tech",
+      "position": "Girls in Tech Summer Camp Mentor",
       "website": "",
       "startDate": "May 2022",
       "endDate": "July 2022",
@@ -116,7 +116,7 @@
       "position": "Volunteer at Hawai'i Foodbank",
       "startDate": "2021",
       "endDate": "Present",
-      "summary": "Pack boxes for elderly and/or children",
+      "summary": "Pack boxes for elderly and/or children.",
     },
     {
       "organization": "SPCA",
