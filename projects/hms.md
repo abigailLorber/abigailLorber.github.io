@@ -42,12 +42,12 @@ Check-out rooms: allows the user to check-out of a room, prompts user for:
   - Room number
   - Number of days stayed in room
 
-  Displays the following check-out details:
+    Displays the following check-out details:
     - Customer name
     - Room number
     - Address
     - Phone number
-    - Total amount due
+    - Total amound due
     - Advance paid
     - Total payable
 
