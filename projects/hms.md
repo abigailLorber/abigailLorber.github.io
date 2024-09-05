@@ -12,11 +12,13 @@ summary: "My team created a hotel management system for ICS 212."
 
 <img class="img-fluid" src="../img/hms.png">
 
-I was responsible for creating a customer class and the available rooms and guest summary features. 
+## Assignment 
 
-ICS 212 was the first class to introduce me to group programming assignments, which was a beneficial learning experience. As a group, we had to divide up tasks of the project, program our portions and peer review each other's work. At the end, we were expected to present our program to the class.
+ICS 212 was the first class to introduce me to group programming assignments, which was a beneficial learning experience. As a group, we had to divide up tasks of the project, program our portions and peer review each other's work. At the end, we were expected to present our program to the class. I was responsible for creating a customer class and the available rooms and guest summary features. 
 
 The HMS (Hotel Management System) was developed in order to keep track of rooms in a hotel and to log customers checking in and out of a hotel establishment. The HMS starts off empty; there are no rooms when the HMS is started, therefore rooms must be added through the Manage rooms option shown below.
+
+## Interface Description
 
 The HMS allows a user to choose between 6 different options:
   1. Manage rooms
@@ -26,9 +28,13 @@ The HMS allows a user to choose between 6 different options:
   5. Check-out rooms
   6. Guest Summary Report
 
-Manage rooms: displays the MANAGE ROOMS page, where a user can add, search, or delete a room.
+## Manage Rooms
 
-Check-in rooms: allows the user to check into the room, prompts user for:
+Displays the MANAGE ROOMS page, where a user can add, search, or delete a room.
+
+## Check-in Rooms
+
+Allows the user to check into the room, prompts user for:
   - Room number
   - Booking ID
   - Customer name
@@ -38,28 +44,37 @@ Check-in rooms: allows the user to check into the room, prompts user for:
   - Check-out date
   - Any advance payments.
 
-Available rooms: displays any available rooms (a room must first be added in the MANAGE ROOMS page and empty to be available).
+## Available Rooms:
 
-Search customer: prompts user for customer name, displays if the customer is staying at the hotel or not and the corresponding room number.
+Displays any available rooms (a room must first be added in the MANAGE ROOMS page and empty to be available).
 
-Check-out rooms: allows the user to check-out of a room, prompts user for:
+## Search Customer
+
+Prompts user for customer name, displays if the customer is staying at the hotel or not and the corresponding room number.
+
+## Check-out Rooms
+
+Allows the user to check-out of a room, prompts user for:
   - Room number
   - Number of days stayed in room
 
-    Displays the following check-out details:
-    - Customer name
-    - Room number
-    - Address
-    - Phone number
-    - Total amound due
-    - Advance paid
-    - Total payable
+Additionally, displays the following check-out details:
+  - Customer name
+  - Room number
+  - Address
+  - Phone number
+  - Total amound due
+  - Advance paid
+  - Total payable
 
-Guest summary report: displays all customers currently staying at the hotel, it does not display customers who have checked-out of the hotel.
+## Guest Summary Report
 
-An excerpt from the HMS is provided below.
+Displays all customers currently staying at the hotel, it does not display customers who have checked-out of the hotel.
 
+<br>
 <hr>
+
+## Hotel Management System Sample
 
 <pre>
 +---------- HOTEL MANAGEMENT ----------+
