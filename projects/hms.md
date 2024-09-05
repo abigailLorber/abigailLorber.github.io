@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/hms.png
 title: "Hotel Management System"
 date: 2023
 published: true
@@ -10,7 +10,7 @@ labels:
 summary: "My team created a hotel management system for ICS 212."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/hms.png">
 
 The HMS (Hotel Management System) was developed in order to keep track of different customers checking in and out of a hotel establishment.
 
