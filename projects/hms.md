@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hms.png
+image: img/hmsLogo.png
 title: "Hotel Management System"
 date: 2023
 published: true
@@ -12,7 +12,7 @@ summary: "My team created a hotel management system for ICS 212."
 
 <br>
 
-<img class="img-fluid" src="../img/hmsLogo.png">
+<img class="img-fluid" src="../img/hms.png">
 
 <br>
 
