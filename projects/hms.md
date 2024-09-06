@@ -22,7 +22,7 @@ ICS 212 was the first class to introduce me to group programming assignments, wh
 
 The HMS (Hotel Management System) was developed in order to keep track of rooms in a hotel and to log customers checking in and out of a hotel establishment. The HMS starts off empty; there are no rooms when the HMS is started, therefore rooms must be added through the Manage rooms option shown below.
 
-## Interface Description
+## Interface
 
 The HMS allows a user to choose between 6 different options:
   1. Manage rooms
