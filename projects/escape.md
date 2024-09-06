@@ -33,7 +33,6 @@ The goal of the game is for the user to move their cursor to the `escape hatch` 
 
 ## When the User Reaches the Escape Hatch
 
-<img class="img-fluid" src="../img/escape/escapeReached.png">
 
 <br>
 
