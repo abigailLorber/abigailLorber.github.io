@@ -34,6 +34,7 @@ This was an independent assignment and we were asked to create a program that pr
 
 ## Code Snippet
 
+
 ```
 // creates a scanner
 Scanner input = new Scanner(System.in);
@@ -45,10 +46,4 @@ String message = input.nextLine();
 // user input is assigned to the key variable
 System.out.println("Enter a number to be your key: ");
 int key = input.nextInt();
-
-// checks to make sure user input is valid
-while (key <= 0) {
-    System.out.println("Invalid input. Please enter a number greater than or equal to 1");
-    key = input.nextInt();
-}
 ```
