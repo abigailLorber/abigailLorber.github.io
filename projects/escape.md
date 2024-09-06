@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/escape/escape.png
+image: img/escape/escapeLogo.png
 title: "You Can't Escape..."
 date: 2019
 published: true
