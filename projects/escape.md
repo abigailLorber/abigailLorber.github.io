@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/escape.png
+image: img/escape/escape.png
 title: "You Can't Escape..."
 date: 2019
 published: true
@@ -10,7 +10,7 @@ labels:
 summary: "A simple escape game."
 ---
 
-<img class="img-fluid" src="../img/escape.png">
+<img class="img-fluid" src="../img/escape/escape.png">
 
 ## Background
 
