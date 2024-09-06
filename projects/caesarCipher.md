@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/caesarCipher.png
+image: img/caesarCipherLogo.png
 title: "Caesar Cypher"
 date: 2021
 published: true
