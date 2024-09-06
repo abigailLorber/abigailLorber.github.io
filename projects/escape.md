@@ -14,7 +14,7 @@ summary: "A simple escape game."
 
 ## Background
 
-I did this project in my AP Computer Science Principles class in high school. This was one of the first classes I took, and it introduced me to computer science, and is the reason I am pursuing a degree in this field :)
+I did this project in my AP Computer Science Principles class in high school, we used the Applab environment from Code.org. This was one of the first classes I took, and it introduced me to computer science, and is the reason I am pursuing a degree in this field :)
 
 ## Explanation of the Game
 
