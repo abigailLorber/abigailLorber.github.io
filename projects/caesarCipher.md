@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/caesarCipher.png
 title: "Cotton"
 date: 2021
 published: true
