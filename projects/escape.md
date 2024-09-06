@@ -24,11 +24,20 @@ The goal of the game is for the user to move their cursor to the `escape hatch` 
 
 <hr>
 
-## Samples From the Game
+
+## Start of the Game
 
 <img class="img-fluid" src="../img/escape/escapeStart.png">
 
+<br>
+
+## When the User Reaches the Escape Hatch
+
 <img class="img-fluid" src="../img/escape/escapeReached.png">
+
+<br>
+
+## Game Over
 
 <img class="img-fluid" src="../img/escape/escapeGameOver.png">
 
