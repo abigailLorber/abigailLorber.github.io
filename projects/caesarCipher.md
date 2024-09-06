@@ -6,6 +6,7 @@ title: "Caesar Cypher"
 date: 2021
 published: true
 labels:
+  - Java
   - Caesar Cipher
   - Encryption
 summary: "A program that encrypts a message using a Caesar cipher."
@@ -31,4 +32,23 @@ This was an independent assignment and we were asked to create a program that pr
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+## Code Snippet
+
+```
+// creates a scanner
+Scanner input = new Scanner(System.in);
+        
+// user input is assigned to the message variable
+System.out.println("Enter a message to encrypt: ");
+String message = input.nextLine();
+
+// user input is assigned to the key variable
+System.out.println("Enter a number to be your key: ");
+int key = input.nextInt();
+
+// checks to make sure user input is valid
+while (key <= 0) {
+    System.out.println("Invalid input. Please enter a number greater than or equal to 1");
+    key = input.nextInt();
+}
+```
