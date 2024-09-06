@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/caesarCipher.png
-title: "Cotton"
+title: "Caesar Cypher"
 date: 2021
 published: true
 labels:
