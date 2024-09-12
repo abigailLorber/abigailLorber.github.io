@@ -1,4 +1,4 @@
-y---
+---
 layout: essay
 type: essay
 title: "Reflection on Asking Smart Questions"
