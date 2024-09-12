@@ -1,4 +1,4 @@
----
+y---
 layout: essay
 type: essay
 title: "Reflection on Asking Smart Questions"
@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/essays/stackOverflow.png">
 
 ## The Importance of Smart Questions
 
