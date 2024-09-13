@@ -28,3 +28,8 @@ I found a different StackOverflow post that also asked a "simple" question that 
 1. The not "smart" question: https://stackoverflow.com/questions/65622159/javascript-code-work-in-just-the-first-id/65622189#65622189
 2. The "smart" question: https://stackoverflow.com/questions/762011/what-is-the-difference-between-let-and-var/11444416#11444416
 ---!>
+
+<!--- this is a comment -->
+[comment]: # (this is a comment)
+[//]: # (this is a comment)
+[comment]: comment
