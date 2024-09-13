@@ -19,8 +19,8 @@ Asking questions in a "smart" way is significant because people need to understa
 I found a different StackOverflow post that also asked a "simple" question that could be googled, but was met with the complete opposite response and was upvoted over 6,000 times! The OP stated that they tried figuring out what the difference between the `let` and `var` keywords, but still quite couldn't understand. The most upvoted answer gave a in-depth explanation on all the different ways that the `let` and `var` keyword are different. Overall, this question was asked in a "smart" way because the question was simple, and they also stated that they did do some previous research because they included a link to a website explaining `let` and `var`. While this poster did their research and was still having a tough time understanding the concept, the other poster mentioned above seemed to do no research about their issue. Additionally, the post was written well; the grammar was better than the other StackOverflow post that mentioned earlier.
 
 **Link to the pages where the StackOverflow posts can be found:**
-1. Source: <a href="https://stackoverflow.com/search?page=2&tab=Relevance&pagesize=15&q=body%3a%20%22RTFM%22&searchOn=3">Page</a> where the not "smart" question can be found.
-2. Source: <a href="https://stackoverflow.com/search?q=%5Bjavascript%5D+score%3A+3&s=d9cd8332-a3e5-43ec-b6bd-aaa73f94d31c">Page</a> where the "smart" question can be found.
+1. <a href="https://stackoverflow.com/search?page=2&tab=Relevance&pagesize=15&q=body%3a%20%22RTFM%22&searchOn=3">Page</a> where the not "smart" question can be found.
+2. <a href="https://stackoverflow.com/search?q=%5Bjavascript%5D+score%3A+3&s=d9cd8332-a3e5-43ec-b6bd-aaa73f94d31c">Page</a> where the "smart" question can be found.
 
 <!---
 **Direct links to the 2 StackOverflow posts:**
