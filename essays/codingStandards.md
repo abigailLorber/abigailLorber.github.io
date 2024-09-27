@@ -21,23 +21,15 @@ After your first week of using ESLint with VSCode, what are your impressions? Ar
 
 Write an interesting, informative essay on coding standards that addresses some or all of the above questions, or goes in a different direction entirely regarding coding standards. Make sure it provides your personal perspective and useful insights.
 -->
+
+
 ## Coding Standards
 
 I believe coding standards should be implemented regularly. It makes collaboration on projects very helpful and easy; when multiple people are working on the same code base, coding standards make the formatting so much nicer and cleaner looking. It is also helpful to have coding standards in place so that everyone is on the same page. For example, when naming variables, it keeps code more consistent and organized if everyone decided on a style, like using camelCase or snake_case. 
 
+
 ## ESLint
 
-I think ESLint is a great formatter and have been thoroughly enjoying using it. I find myself not having too many issues with it, and the errors I do have are usually very fixable and easy. I 
+I think ESLint is a great formatter and have been thoroughly enjoying using it. I find myself not having too many issues with it, and the errors I do have are usually very fixable and easy. Additionally, the errors from ESLint are very helpful because I feel like I learn a lot more about JavaScript and TypeScript than I would learn from not using ESLint. For example, without ESLint some exceptions may be made that would not be allowed with it. Another benefit of ESLint is indentation. It is very satisfying and way easier to read when indentations are all consistent throughout a file, otherwise it would be hectic and could be difficult to locate errors or understand what is going on. Indentations are an easy way to keep code looking consistent and help yourself/others out, and ESLint checks for proper indentations, so I really enjoy that feature.
 
-- helps with indentation
-- formatting
-- helps learn the programming language, w.out formatting some exceptions may be made that wouldn't be allowed with a code formatter.
-- keeps things organized, great for perfectionists.
-
-
-I think naming conventions is also important (camelCase vesus _ between each words), makes it easier to read code also more satisfying in my opinion
-
-
-
-*test*
 
