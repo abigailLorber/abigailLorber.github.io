@@ -12,7 +12,7 @@ labels:
   - Format
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/essays/eslintLogo.png">
+<img width="200px" src="../img/essays/eslintLogo.png">
 
 <!--
 I, on the other hand, think that if you can only implement one software engineering technique to improve quality, it should be coding standards. Indeed, I believe some coding standards can actually help you learn a programming language. Do you agree?
