@@ -4,7 +4,7 @@ type: essay
 title: "Coding Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-24
-published: false
+published: true
 labels:
   - TypeScript
   - JavaScript
@@ -19,7 +19,7 @@ labels:
 I, on the other hand, think that if you can only implement one software engineering technique to improve quality, it should be coding standards. Indeed, I believe some coding standards can actually help you learn a programming language. Do you agree?
 After your first week of using ESLint with VSCode, what are your impressions? Are you finding that getting rid of all the ESLint errors is painful, or useful, or both, or something else entirely?
 Write an interesting, informative essay on coding standards that addresses some or all of the above questions, or goes in a different direction entirely regarding coding standards. Make sure it provides your personal perspective and useful insights.
-->
+-->
 
 I believe coding standards should be implemmented regularly. It makes collaboration on projects very helpful and easy; when multiple people are working on the same code base, coding standards make the formatting so much nicer and cleaner looking. It is also helpful to have coding standards in place so that everyone is on the same page. For example, when naming variables it keeps code more consistent and organized if everyone decided on a style, like using camelCase or snake_case. 
 
