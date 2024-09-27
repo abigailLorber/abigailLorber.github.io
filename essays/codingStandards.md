@@ -25,7 +25,7 @@ Write an interesting, informative essay on coding standards that addresses some 
 
 I believe coding standards should be implemented regularly. It makes collaboration on projects very helpful and easy; when multiple people are working on the same code base, coding standards make the formatting so much nicer and cleaner looking. It is also helpful to have coding standards in place so that everyone is on the same page. For example, when naming variables, it keeps code more consistent and organized if everyone decided on a style, like using camelCase or snake_case. 
 
-#ESLint
+## ESLint
 
 I think ESLint is a great formatter and have been thoroughly enjoying using it. I find myself not having too many issues with it, and the errors I do have are usually very fixable and easy. I 
 
