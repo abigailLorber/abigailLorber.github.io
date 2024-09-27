@@ -13,6 +13,8 @@ labels:
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/">
+<img width="200px" src="../img/essays/stackOverflow.png">
+
 <!--
 I, on the other hand, think that if you can only implement one software engineering technique to improve quality, it should be coding standards. Indeed, I believe some coding standards can actually help you learn a programming language. Do you agree?
 After your first week of using ESLint with VSCode, what are your impressions? Are you finding that getting rid of all the ESLint errors is painful, or useful, or both, or something else entirely?
