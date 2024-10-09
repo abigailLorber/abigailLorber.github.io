@@ -17,7 +17,7 @@ My first computer science class was a course called "Introduction to Web Design"
 
 ## Notion
 
-The most recently tasked assignment was to find any website that doesn't use bootstrap and to recreate it using bootstrap. I really liked this assignment because we were able to pick any website that we wanted that fit that criteria. I chose the website Notion. It is an application that allows the user to do a lot of different things, but it is primarily advertised as a note-taking app.
+The most recently tasked assignment was to find any website that doesn't use Bootstrap and to recreate it using Bootstrap. I really liked this assignment because we were able to pick any website that we wanted that fit that criteria. I chose the website Notion. It is an application that allows the user to do a lot of different things, but it is primarily advertised as a note-taking app.
 
 I chose to recreate Notion because I like the UI of their website; it is very simple and modern. I think it is also very user-friendly and straightforward to use. I decided to recreate the top section of the home page and the footer section. Below are photos of the original Notion website and my recreation.
 
@@ -39,8 +39,10 @@ I chose to recreate Notion because I like the UI of their website; it is very si
 
 ## Bootstrap v5
 
-text
+I have not previously used Bootstrap, so this is my first time using it. I really like it, I think it is helpful and it makes formatting `div`s, for example, way easier. Otherwise, I would have to manually format `div` in the CSS file or throughout the HTML file. Because of this, it also makes the file less cluttered - I noticed that my CSS file is shorter than it would typically be. The downside is that the HTML file is a little more cluttered because you have to assign a lot of different classes to elements. 
 
 <img width="400px" src="../img/essays/bootstrapEssay/bootstrapLogo.png">
 
-text
+I am familiar with icons and have used them before, but I believe I used Google icons. I really enjoy Bootstrap icons - in general, I think icons are fun and cute, they make websites more customized and add that unique "pop".
+
+It would have taken a lot longer to do my Notion recreation if I just used HTML/CSS and did not use Bootstrap. So I am glad I learned about Bootstrap because it is very helpful. Not only did using Bootstrap save me time, it also made me more aware of how I am spacing elements on a webpage and it made me more excited to organize the webpage/elements. Overall, I had fun using Bootstrap, and I would definitely use it for future projects and practice.
