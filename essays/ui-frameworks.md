@@ -11,7 +11,7 @@ labels:
   - ICS 314
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/essays/bootstrapLogo.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/essays/bootstrapEssay/bootstrapLogo.png">
 
 ## HTML/CSS
 
@@ -21,7 +21,17 @@ My first computer science class was a course called "Introduction to Web Design"
 
 The most recently tasked assignment was to find any website that doesn't use bootstrap and to recreate it using bootstrap. I really liked this assignment because we were able to pick any website that we wanted that fit that criteria. I chose the website Notion. It is an application that allows the user to do a lot of different things, but it is primarily advertised as a note-taking app.
 
-I chose to recreate Notion because I like the UI of their website; it is very simple and modern. I think it is also very user-friendly and straightforward to use. 
+I chose to recreate Notion because I like the UI of their website; it is very simple and modern. I think it is also very user-friendly and straightforward to use. I decided to recreate the top section of the home page and the footer section. Below are photos of the original Notion website and my recreation.
+
+**Original Notion website** 
+<br>
+<img width="400px" class="rounded float-start pe-4" src="../img/essays/bootstrapEssay/notionOriginal.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/essays/bootstrapEssay/notionOriginal.png">
+
+**My recreation of the Notion website** 
+<br>
+<img width="400px" class="rounded float-start pe-4" src="../img/essays/bootstrapEssay/notionRecreation.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/essays/bootstrapEssay/notionOriginal.png">
 
 
 ## Bootstrap v5
