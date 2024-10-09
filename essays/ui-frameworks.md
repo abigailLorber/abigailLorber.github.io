@@ -32,9 +32,9 @@ I chose to recreate Notion because I like the UI of their website; it is very si
 
 #### My recreation of the Notion website:
 
-<img width="400px" class="rounded float-start pe-4" src="../img/essays/bootstrapEssay/notionRecreation.png">
+<img width="400px" src="../img/essays/bootstrapEssay/notionRecreation.png">
 <br>
-<img width="400px" class="rounded float-start pe-4" src="../img/essays/bootstrapEssay/notionFooterRecreation.png">
+<img width="400px" src="../img/essays/bootstrapEssay/notionFooterRecreation.png">
 <br>
 
 ## Bootstrap v5
