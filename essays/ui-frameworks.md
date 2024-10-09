@@ -11,7 +11,7 @@ labels:
   - ICS 314
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/essays/bootstrapEssay/bootstrapLogo.png">
+<img width="400px" src="../img/essays/bootstrapEssay/bootstrapLogo.png">
 
 ## HTML/CSS
 
