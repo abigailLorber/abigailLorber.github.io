@@ -10,7 +10,7 @@ labels:
   - Design
 ---
 
-<img width="200px" src="../img/essays/designPatterns.png">
+<img src="../img/essays/designPatterns.png" width="500px">
 
 <br>
 
@@ -24,6 +24,7 @@ Design patterns have:
 - a description of the solution (the classes/objects/etc. that are used and the relationships between them)
 - any potential consequences of using this design pattern
 
-<img src="../img/essays/factoryPattern.png">
+<img src="../img/essays/factoryPattern.png" width="500">
+
 One type of design pattern that I have used a lot, especially when I first started learning about programming, is the Factory Pattern. A very common problem I remember trying to solve is having a Shape class with multiple subclasses, where the subclasses are supposed to be used for objects that are different "shapes". I think that using the Factory Pattern helps keep code more clean and efficient.
 
