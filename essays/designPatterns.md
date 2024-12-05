@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Design Patterns"
+title: "Reflection on Design Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-05
 published: true
