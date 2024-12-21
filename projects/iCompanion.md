@@ -15,7 +15,7 @@ https://i-companion.github.io/iCompanion.github.io/
 
 <br>
 
-<img class="img-fluid" width="75%" src="../img/icompanion.png">
+<img class="img-fluid" src="../img/icompanion.png">
 
 <br>
 
@@ -39,8 +39,8 @@ I learned a lot when working on iCompanion, like communication and developing al
 
 ## Samples of iCompanion
 
-<img class="img-fluid" src="../img/icompanionHome.png">
+<img class="img-fluid" width="800px" src="../img/icompanionHome.png">
 
-<img class="img-fluid" src="../img/icompanionSignup.png">
+<img class="img-fluid" width="800px" src="../img/icompanionSignup.png">
 
-<img class="img-fluid" src="../img/icompanionEvents.png">
+<img class="img-fluid" width="800px" src="../img/icompanionEvents.png">
