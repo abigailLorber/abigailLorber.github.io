@@ -15,7 +15,7 @@ https://i-companion.github.io/iCompanion.github.io/
 
 <br>
 
-<img class="img-fluid" src="../img/icompanion.png">
+<img class="img-fluid" width="75%" src="../img/icompanion.png">
 
 <br>
 
